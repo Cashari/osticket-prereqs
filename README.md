@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/ICvT3AL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created 2 virtual machine on Azure, used the remote desktop to remote into the server to install osticket.
+Created 2 virtual machines on Azure. Used the remote desktop to launch into the server and install osticket.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Created 2 virtual machine on Azure, used the remote desktop to remote into the s
 <img src="https://imgur.com/IA9h1um.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Run Internet Information Services (IIS), as an administrator click on PHP Manager to enable some extensions. after enabling the best practice is to restart your (IIS) then install osticket.
+Run Internet Information Services (IIS) as an administrator, followed by clicking on PHP Manager to enable various extensions, after enabling restart your (IIS) (best practice) to install osticket.
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Run Internet Information Services (IIS), as an administrator click on PHP Manage
 <img src="https://imgur.com/1t04eV2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Prior to installation of OS ticket and enabling the PHP manager, my SQL was also installed, allowing me to continue the installation process and finally uploading OS ticket.
 </p>
 <br />
 
@@ -57,6 +57,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://imgur.com/8tfapvN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After following all the steps. Congratulations i finally installed osticket. 
+Once all steps have been completed I'm able to install osticket. 
 </p>
 <br />
